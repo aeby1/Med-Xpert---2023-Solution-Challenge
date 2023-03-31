@@ -1,1 +1,27 @@
 
+Greetings...
+For this project you need to install Node js LTS and expo and Visual Studio Code for code Editor.
+First we need to install node modules.
+
+Then we have to verify below packages for react native project. below are the packages that need to be installed.
+1.react
+2.react navigation
+3.axios
+4.expo location
+5.google map
+6.Node Modules
+
+Then we have to verify below packages for node js project. below are the packages that need to be installed.
+1.react
+2.axios
+3.mongoose
+4.express
+5.csv
+6.bycrypt
+
+
+To run the react native project. first we need to open the source code folder and then hit "npx expo start" on the command prompt.
+To run the node js project. first we need to open the source code folder and then hit "nodemon app.js" on the command prompt.
+
+Thanks :)
+
