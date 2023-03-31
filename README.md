@@ -11,6 +11,7 @@ First we need to install node modules.
 
 In MedXpert Folder:
 Then we have to verify below packages for react JS project. below are the packages that need to be installed.
+    Node Modules
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
