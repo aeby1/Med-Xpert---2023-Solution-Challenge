@@ -3,6 +3,7 @@ Greetings...
 For this project you need to install Node js LTS and expo and Visual Studio Code for code Editor.
 First we need to install node modules.
 
+In MedXpert Folder:
 Then we have to verify below packages for react native project. below are the packages that need to be installed.
 1.react
 2.react navigation
@@ -11,6 +12,7 @@ Then we have to verify below packages for react native project. below are the pa
 5.google map
 6.Node Modules
 
+In Ourapis folder: Download raw and extract zip file.
 Then we have to verify below packages for node js project. below are the packages that need to be installed.
 1.react
 2.axios
