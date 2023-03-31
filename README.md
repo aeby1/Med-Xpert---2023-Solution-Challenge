@@ -40,7 +40,7 @@ Then we have to verify below packages for node js project. below are the package
 
 
 To run the react JS project. first we need to open the source code folder and then hit "npm start" on the new terminal or command prompt.
-To run the node js project. first we need to open the source code folder inside DoctorApiNodeServer folder and then hit "nodemon ./app.js" on the command prompt.
+To run the node js project. first we need to open the source code folder inside DoctorApiNodeServer folder and then hit "nodemon .\app.js" on the command prompt.
 
 Thanks :)
 
