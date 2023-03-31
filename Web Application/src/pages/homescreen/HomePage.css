@@ -1,0 +1,90 @@
+.layout{
+    width: 100%
+}
+
+ .site-layout-content {
+    min-height: 80px;
+    padding: 24px;
+    background: #fff;
+    color: black;    
+  }
+  
+   .logo1{
+    width: 160px;
+    height: 47px !important;
+    margin: 12px 24px 16px -900px;
+    
+
+
+  }
+
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+   
+  .content{
+    padding: '50px 50px';
+ 
+  }
+  
+  .dateac .ant-picker-input input {
+    font-size: 1rem ;
+    font-weight: bold ;
+  }
+
+
+  .tables .ant-table{
+   line-height: 0.17;
+   border:1px solid #22a0db;
+  }
+  .tables .ant-table-tbody > tr > td{
+    padding:7px 0px 7px 16px;
+    
+  }
+ .tables .ant-table-thead > tr > th{
+  background: #22a0db;
+ }
+
+ .dateac input {
+  margin-top: 0px;
+ }
+
+ .patientDrawer .ant-drawer-header {
+  background: #22a0db;
+ }
+/* .patientDrawer{
+
+} */
+
+ .ant-modal-header{
+    background: #22a0db;
+ }
+
+
+ .bio_heading{
+  margin-left: 40px ;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.bioModal{
+align-items: center;
+}
+.fingerPic{
+  border-radius: 40px;
+  height: 200px;
+  width: 200px;
+  margin-left: 128px;
+}
+.biobtn{
+  margin-left: 38%;
+  margin-top: 20px;
+}
+.icebtn{
+  float: right;
+  height: 54px;
+  width: 80px;
+  padding: 0px 0px 0px 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}

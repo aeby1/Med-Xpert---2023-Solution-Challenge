@@ -1,0 +1,49 @@
+.logo1{
+    height: 8vmin;
+    pointer-events: none;
+    margin-bottom: 50px;
+  }
+  .dashboardlogo {
+        float: left;
+        width: 160px;
+        height: 47px;
+        margin: 12px 24px 16px 0;
+      }
+    
+      .ant-row-rtl #components-layout-demo-top .logo {
+        float: right;
+        margin: 16px 0 16px 24px;
+      }
+    .ant-layout-header{
+        padding: 0 20px !important;
+        margin-left: -200px;
+    }
+    .ant-layout-sider-has-trigger{
+        margin-top: 64px;
+    }
+  .timeline{
+    height: 210px;
+      overflow-y: scroll;
+  }
+  .Mhistory{
+    height: 200px;
+      overflow-y: scroll;
+  }
+  .MHcard{
+    height: 315px;
+  }
+  .vitals{
+    height: 418px;
+      overflow-y: scroll;
+  }
+  .vitalscard{
+    height: 450px;
+     
+  }
+
+.userinfo{
+  height: 356px;
+}
+.labels{
+margin-top: 20px;
+}

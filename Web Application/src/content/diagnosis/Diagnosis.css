@@ -1,0 +1,55 @@
+.complaintbtn{
+    margin: 10px 10px 0px 0px;
+}
+.alergytype{
+margin: 5px 5px 5px 5px;
+}
+.alergyDescription{
+    margin: 5px 5px 5px 5px;
+}
+.severity{
+    margin: 5px 5px 5px 5px; 
+}
+.alergybtn{
+    margin: 5px 5px 5px 5px;
+}
+.alergycard{
+    min-width: fit-content;
+    height:280px;
+}
+.patient_dashboard_body{
+    margin: 20 10px;
+    min-width:min-content;
+}
+.ant-card-head{
+  background-color:#22a0db;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: .7;
+}
+.userinfo{
+    height: 356px;
+}
+  .labels{
+  margin-top: 20px;
+  }
+  .vitals{
+    overflow-y: hidden;
+    height: 695px;
+  }
+.complaint{
+  height: 356px
+}
+.med_dosage{
+  width: 80px;
+}
+.med_form{
+width:50px;
+}
+.sumptomstext{
+  margin-top: 55px;
+}
+.prescriptioncards{
+  min-width: fit-content;
+  padding-top: 30px;
+}

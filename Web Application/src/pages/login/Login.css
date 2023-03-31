@@ -1,0 +1,97 @@
+.logo{
+    width: 250px;
+    height: 74px;
+    position: relative;
+    margin: 0px 0px 0px 0px !important;
+        -webkit-filter: drop-shadow(5px 5px 5px #222 );
+        filter: drop-shadow(3px 3px 3px #222);
+    float: none !important;
+}
+
+.background{
+    width: 430px;
+    height: 520px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+
+form{
+    height: 620px;
+    width: 400px;
+    background-color: rgba(255,255,255,0.13);
+    position: fixed;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+   
+    
+}
+
+form *{
+    font-family: 'Poppins',sans-serif;
+    /* color: #ffffff; */
+    letter-spacing: 0.4px;
+    outline: none;
+    border: none;
+    justify-content: space-evenly ;
+    /* margin: -1.8px; */
+    
+}
+
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;  
+}
+
+input{
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    margin-top: 4px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.ant-input-affix-wrapper{
+    background: transparent !important;
+}
+.ant-input-affix-wrapper > input.ant-input {
+    background: transparent !important;
+}
+
+
+
+.p1{
+    margin-bottom: 1em !important;
+    color: #fff;
+}
+.h2{
+    color: #fff;
+}
+::placeholder{
+    color: #e5e5e5;
+}
+
+.login-form{
+    
+    padding-top: 8%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+ .login-form-forgot {
+  float: right;
+  color: bisque;
+} */
+ .ant-col-rtl .login-form-forgot {
+  float: left;
+}
+

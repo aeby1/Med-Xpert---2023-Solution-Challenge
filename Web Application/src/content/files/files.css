@@ -1,0 +1,18 @@
+.logo{
+    height: 8vmin;
+    pointer-events: none;
+    margin-bottom: 0px;
+  }
+  .dashboardlogo{
+    height: 8.5vmin;
+    pointer-events: none;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .backbutton{
+    float: right; 
+    margin-right: 1%;
+    margin-top:1%;
+    height:4.5vmin;
+    width:10vmin
+  }

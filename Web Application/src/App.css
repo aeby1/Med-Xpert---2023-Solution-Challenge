@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+.container p {
+  font-size: medium;
+  text-align: center;  
+}
+.SignupLink {
+  font-size: medium;
+  text-align: center;
+  color: bisque;
+}
+.LoginLink {
+  font-size: medium;
+  text-align: center;
+  color: bisque;
+}
+
+.App-header {
+  background-image: url('./pages/assets/bg_image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center; 
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
